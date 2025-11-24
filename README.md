@@ -3,5 +3,5 @@
 ✨ Atualmente aprendendo linguagem C
 
 
-![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=rose)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=rose)
+![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leticia-Paola&show_icons=true&theme=rose)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-Paola&layout=compact&theme=rose)
 
