@@ -4,3 +4,5 @@
 
 ![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leticia-Paola&show_icons=true&theme=rose)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-Paola&layout=compact&theme=rose)
 
+<img src="https://github-readme-stats.vercel.app/api?username=Leticia-Paola&show_icons=true&theme=rose" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-Paola&layout=compact&theme=rose" alt="Top languages" />
